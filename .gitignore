@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Pycharm Files
+.idea
+
+dump-old-check
+.DS_Store
